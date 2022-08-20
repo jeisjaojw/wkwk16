@@ -1,15 +1,15 @@
 //=============『 Utama 』================== //
-global.owner = ['6287898307350'] 
+global.owner = ['19146271508'] 
 global.mods = [] 
 global.prems = [] 
 
 //=============『 Info Owner 』============== //
 global.nameowner = 'Gempy⛧⁩⁩'
-global.numberowner = '6287898307350'
+global.numberowner = '19146271508'
 global.instagram = 'https://www.instagram.com/gmpyyy'
 global.github = 'https://github.com/gmpyyy'
-global.dana = '087898307350'
-global.pulsa = '087898307350'
+global.dana = '087837703726'
+global.pulsa = '087837703726'
 global.gopay = '-'
 
 //=============『 Info Bot 』=================//
@@ -25,7 +25,7 @@ global.lolkey = 'Papah-Chan' //biar mudah ngegantinya semisal apikeynya expired:
 global.zenzkey = 'BagasPrdn' //ganti jadi apikey lu kalau expired
 global.wm = 'PENTABOT'
 global.watermark = wm
-global.wm2 = '                     「PENTABOT⁩ 」'
+global.wm2 = '                     「FAUZIBOT⁩ 」'
 global.wm3 = 'Gempy⛧'
 global.htki = '––––––『' 
 global.htka = '』––––––'
@@ -37,7 +37,7 @@ global.benar = 'Benar ✅\n'
 global.salah = 'Salah ❌\n'
 global.stiker_wait = 'Stiker sedang dibuat'
 global.packname = 'Created by'
-global.author = 'Gempy⛧⁩⁩'
+global.author = 'Fauzii⛧⁩⁩'
 
 //=============『 Apikey 』================== //
 global.APIs = { // API Prefix
